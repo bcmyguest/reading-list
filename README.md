@@ -1,7 +1,14 @@
 # reading-list
 # Personal Reading List
 
-A series of some books that have helped guide the me on my path, feel free to suggest some more :) Note that my categorization is a bit funky - many of these books could really be in almost all of the categories...sorry about that!
+A series of some books that have helped guide the me on my path (or I just enjoyed), feel free to suggest some more :) Note that my categorization is a bit funky - many of these books could really be in almost all of the categories...sorry about that!
+
+### Engineering Management
+- Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp
+    - For those new to management, I'd recommend it. Nothing crazy, but it was a good sidekick for me in my first stint as a manager
+ 
+- An Elegant Puzzle: Systems of Engineering Management by Will Larson
+- The Manager's Path
 
 ### Agile/Lean/Kanban/Scrum
 
@@ -14,13 +21,10 @@ A series of some books that have helped guide the me on my path, feel free to su
 - Making Work Visible: Exposing Time Theft to Optimize Work & flow by Dominica Degrandis
     - A bit older, and maybe a bit straightforward but a good reminder on how we can make *important* and *incremental* changes in our daily work to make our lives easier - and to eliminate waste.
 
-- Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp
-    - For those new to management, I'd recommend it. Nothing crazy, but it was a good sidekick for me in my first stint as a manager
-
 ### Development (General)
 
 - Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-    - An old one but a good one. A must-read for a junior developer
+    - An old one but a good one. I can never get myself through this book.
 
 ### DEVOPS
 - The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford
@@ -43,12 +47,18 @@ A series of some books that have helped guide the me on my path, feel free to su
 
 - Staff Engineer: Leadership Beyond the Management Track by Will Larson
     - Want to move your development career forward but not sure where the road ends? This one is for you. Want to support a senior developer and continue their growth so they don't get bored? Same. I found it to be a good listen on my morning walks with the dog.
+ 
+- The Staff Engineer's Path
+      - Haven't read it yet.
 
 - Building Microservices: Designing Fine-Grained Systems: Newman, Sam
     - If you found Microservice Patterns to lack some of the motivation, tradeoffs, and nuance you crave, this is the book for you. Newman isn't trying to sell you on the cult of microservices, just talk through their use cases, and have an honest look at when they do and *don't* work.
 
 - Domain Driven Design by Eric Evans
-    - I think this book taught me more about software engineering than almost any other book from my undergrad. 
+    - I think this book taught me more about software engineering than almost any other book from my undergrad.
+ 
+- Modern Software Engineering by David Farley
+  
 
 ### Machine Learning
 
@@ -71,5 +81,7 @@ A series of some books that have helped guide the me on my path, feel free to su
 
 - Talking to Strangers: What We Should Know About the People We Don’t Know by Malcolm Gladwell
     - Almost like the alignment problem between different humans. This is a really fun one.
-
+- Atomic Habits by James Clear
+- Good Economics for Hard Times by Abhijit V. Banerjee and Esther Duflo
+- 
 
